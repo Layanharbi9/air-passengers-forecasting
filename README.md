@@ -236,7 +236,7 @@ flowchart LR
 
 <table>
 <tr>
-<td width="50%"><img src="figures/01_series.png" alt="Passengers grew sixfold, and the yearly swing grew with them"/></td>
+<td width="50%"><img src="figures/01_series.png" alt="Air passengers almost quadrupled, and the yearly swing grew with them"/></td>
 <td width="50%"><img src="figures/02_stl.png" alt="STL decomposition"/></td>
 </tr>
 <tr>
